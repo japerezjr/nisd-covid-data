@@ -1,0 +1,479 @@
+[('Active positive cases', '10/18/2021 - 10/24/2021'), ('Campus staff', 4), ('Non-campus staff', 3), ('Students', 97)]
+{
+    "Adams Hill ES": {
+        "Cases": 1,
+        "Enrollment": 468
+    },
+    "Allen ES": {
+        "Cases": 0,
+        "Enrollment": 467
+    },
+    "Alternative HS": {
+        "Cases": 0,
+        "Enrollment": 163
+    },
+    "Alternative MS": {
+        "Cases": 0,
+        "Enrollment": 54
+    },
+    "Aue ES": {
+        "Cases": 1,
+        "Enrollment": 607
+    },
+    "Beard ES": {
+        "Cases": 4,
+        "Enrollment": 654
+    },
+    "Behlau ES": {
+        "Cases": 2,
+        "Enrollment": 614
+    },
+    "Bernal MS": {
+        "Cases": 0,
+        "Enrollment": 1359
+    },
+    "Blattman ES": {
+        "Cases": 0,
+        "Enrollment": 507
+    },
+    "Boldt ES": {
+        "Cases": 7,
+        "Enrollment": 768
+    },
+    "Boone ES": {
+        "Cases": 0,
+        "Enrollment": 490
+    },
+    "Brandeis HS": {
+        "Cases": 1,
+        "Enrollment": 2861
+    },
+    "Brauchle ES": {
+        "Cases": 0,
+        "Enrollment": 456
+    },
+    "Braun Station ES": {
+        "Cases": 0,
+        "Enrollment": 404
+    },
+    "Brennan HS": {
+        "Cases": 2,
+        "Enrollment": 3052
+    },
+    "Briscoe MS": {
+        "Cases": 0,
+        "Enrollment": 1327
+    },
+    "Burke ES": {
+        "Cases": 0,
+        "Enrollment": 547
+    },
+    "Cable ES": {
+        "Cases": 0,
+        "Enrollment": 463
+    },
+    "Carlos Coon ES": {
+        "Cases": 1,
+        "Enrollment": 569
+    },
+    "Carnahan ES": {
+        "Cases": 0,
+        "Enrollment": 457
+    },
+    "Carson ES": {
+        "Cases": 0,
+        "Enrollment": 521
+    },
+    "Chavez Excel Academy": {
+        "Cases": 0,
+        "Enrollment": 52
+    },
+    "Clark HS": {
+        "Cases": 4,
+        "Enrollment": 2878
+    },
+    "Cody ES": {
+        "Cases": 1,
+        "Enrollment": 525
+    },
+    "Cole ES": {
+        "Cases": 0,
+        "Enrollment": 1153
+    },
+    "Colonies North ES": {
+        "Cases": 0,
+        "Enrollment": 551
+    },
+    "Connally MS": {
+        "Cases": 1,
+        "Enrollment": 800
+    },
+    "Driggers ES": {
+        "Cases": 0,
+        "Enrollment": 463
+    },
+    "Ellison ES": {
+        "Cases": 1,
+        "Enrollment": 707
+    },
+    "Elrod ES": {
+        "Cases": 0,
+        "Enrollment": 348
+    },
+    "Esparza ES": {
+        "Cases": 0,
+        "Enrollment": 441
+    },
+    "Evers ES": {
+        "Cases": 1,
+        "Enrollment": 607
+    },
+    "Fernandez ES": {
+        "Cases": 2,
+        "Enrollment": 503
+    },
+    "Fields ES": {
+        "Cases": 1,
+        "Enrollment": 816
+    },
+    "Fisher ES": {
+        "Cases": 0,
+        "Enrollment": 621
+    },
+    "Folks MS": {
+        "Cases": 0,
+        "Enrollment": 1312
+    },
+    "Forester ES": {
+        "Cases": 0,
+        "Enrollment": 740
+    },
+    "Franklin ES": {
+        "Cases": 0,
+        "Enrollment": 784
+    },
+    "Galm ES": {
+        "Cases": 1,
+        "Enrollment": 442
+    },
+    "Garcia MS": {
+        "Cases": 0,
+        "Enrollment": 1493
+    },
+    "Glass ES": {
+        "Cases": 1,
+        "Enrollment": 441
+    },
+    "Glenn ES": {
+        "Cases": 0,
+        "Enrollment": 465
+    },
+    "Glenoaks ES": {
+        "Cases": 2,
+        "Enrollment": 551
+    },
+    "Harlan HS": {
+        "Cases": 1,
+        "Enrollment": 3599
+    },
+    "Hatchett ES": {
+        "Cases": 0,
+        "Enrollment": 589
+    },
+    "Health Careers HS": {
+        "Cases": 0,
+        "Enrollment": 909
+    },
+    "Helotes ES": {
+        "Cases": 0,
+        "Enrollment": 354
+    },
+    "Henderson ES": {
+        "Cases": 0,
+        "Enrollment": 825
+    },
+    "Hobby MS": {
+        "Cases": 1,
+        "Enrollment": 845
+    },
+    "Hoffmann ES": {
+        "Cases": 0,
+        "Enrollment": 837
+    },
+    "Holmes HS": {
+        "Cases": 0,
+        "Enrollment": 2591
+    },
+    "Holmgreen Center": {
+        "Cases": 0,
+        "Enrollment": 28
+    },
+    "Howsman ES": {
+        "Cases": 2,
+        "Enrollment": 709
+    },
+    "Hull ES": {
+        "Cases": 0,
+        "Enrollment": 434
+    },
+    "Jay HS": {
+        "Cases": 1,
+        "Enrollment": 2499
+    },
+    "Jefferson MS": {
+        "Cases": 1,
+        "Enrollment": 1265
+    },
+    "Jones MS": {
+        "Cases": 0,
+        "Enrollment": 1089
+    },
+    "Jordan MS": {
+        "Cases": 3,
+        "Enrollment": 1095
+    },
+    "Kallison ES": {
+        "Cases": 0,
+        "Enrollment": 1086
+    },
+    "Knowlton ES": {
+        "Cases": 4,
+        "Enrollment": 649
+    },
+    "Krueger ES": {
+        "Cases": 2,
+        "Enrollment": 574
+    },
+    "Kuentz ES": {
+        "Cases": 1,
+        "Enrollment": 557
+    },
+    "Langley ES": {
+        "Cases": 0,
+        "Enrollment": 626
+    },
+    "Leon Springs ES": {
+        "Cases": 0,
+        "Enrollment": 465
+    },
+    "Leon Valley ES": {
+        "Cases": 0,
+        "Enrollment": 538
+    },
+    "Lewis ES": {
+        "Cases": 1,
+        "Enrollment": 510
+    },
+    "Lieck ES": {
+        "Cases": 0,
+        "Enrollment": 632
+    },
+    "Linton ES": {
+        "Cases": 2,
+        "Enrollment": 472
+    },
+    "Locke Hill ES": {
+        "Cases": 3,
+        "Enrollment": 508
+    },
+    "Los Reyes ES": {
+        "Cases": 0,
+        "Enrollment": 565
+    },
+    "Luna MS": {
+        "Cases": 1,
+        "Enrollment": 1236
+    },
+    "Marshall HS": {
+        "Cases": 0,
+        "Enrollment": 2622
+    },
+    "Martin ES": {
+        "Cases": 0,
+        "Enrollment": 529
+    },
+    "May ES": {
+        "Cases": 0,
+        "Enrollment": 416
+    },
+    "McAndrew ES": {
+        "Cases": 0,
+        "Enrollment": 440
+    },
+    "McDermott ES": {
+        "Cases": 2,
+        "Enrollment": 698
+    },
+    "Mead ES": {
+        "Cases": 0,
+        "Enrollment": 625
+    },
+    "Meadow Village ES": {
+        "Cases": 0,
+        "Enrollment": 409
+    },
+    "Michael ES": {
+        "Cases": 2,
+        "Enrollment": 574
+    },
+    "Mireles ES": {
+        "Cases": 1,
+        "Enrollment": 936
+    },
+    "Mora ES": {
+        "Cases": 1,
+        "Enrollment": 605
+    },
+    "Murnin ES": {
+        "Cases": 0,
+        "Enrollment": 746
+    },
+    "Myers ES": {
+        "Cases": 0,
+        "Enrollment": 505
+    },
+    "Neff MS": {
+        "Cases": 1,
+        "Enrollment": 954
+    },
+    "Nichols ES": {
+        "Cases": 0,
+        "Enrollment": 410
+    },
+    "Northwest Crossing ES": {
+        "Cases": 0,
+        "Enrollment": 426
+    },
+    "O'Connor HS": {
+        "Cases": 3,
+        "Enrollment": 3027
+    },
+    "Oak Hills Terrace ES": {
+        "Cases": 0,
+        "Enrollment": 472
+    },
+    "Ott ES": {
+        "Cases": 2,
+        "Enrollment": 572
+    },
+    "Passmore ES": {
+        "Cases": 1,
+        "Enrollment": 396
+    },
+    "Pease MS": {
+        "Cases": 1,
+        "Enrollment": 880
+    },
+    "Powell ES": {
+        "Cases": 1,
+        "Enrollment": 415
+    },
+    "Raba ES": {
+        "Cases": 1,
+        "Enrollment": 611
+    },
+    "Rawlinson MS": {
+        "Cases": 3,
+        "Enrollment": 1258
+    },
+    "Rayburn MS": {
+        "Cases": 0,
+        "Enrollment": 827
+    },
+    "Reddix Center": {
+        "Cases": 0,
+        "Enrollment": 279
+    },
+    "Rhodes ES": {
+        "Cases": 0,
+        "Enrollment": 508
+    },
+    "Ross MS": {
+        "Cases": 1,
+        "Enrollment": 1036
+    },
+    "Rudder MS": {
+        "Cases": 0,
+        "Enrollment": 933
+    },
+    "Scarborough ES": {
+        "Cases": 0,
+        "Enrollment": 784
+    },
+    "Scobee ES": {
+        "Cases": 1,
+        "Enrollment": 500
+    },
+    "Steubing ES": {
+        "Cases": 0,
+        "Enrollment": 471
+    },
+    "Stevens HS": {
+        "Cases": 2,
+        "Enrollment": 2760
+    },
+    "Stevenson MS": {
+        "Cases": 0,
+        "Enrollment": 1107
+    },
+    "Stinson MS": {
+        "Cases": 6,
+        "Enrollment": 1098
+    },
+    "Straus MS": {
+        "Cases": 0,
+        "Enrollment": 965
+    },
+    "Taft HS": {
+        "Cases": 1,
+        "Enrollment": 2657
+    },
+    "Thornton ES": {
+        "Cases": 1,
+        "Enrollment": 531
+    },
+    "Timberwilde ES": {
+        "Cases": 1,
+        "Enrollment": 543
+    },
+    "Tomlinson ES": {
+        "Cases": 0,
+        "Enrollment": 557
+    },
+    "Vale MS": {
+        "Cases": 2,
+        "Enrollment": 1117
+    },
+    "Valley Hi ES": {
+        "Cases": 1,
+        "Enrollment": 310
+    },
+    "Villarreal ES": {
+        "Cases": 2,
+        "Enrollment": 613
+    },
+    "Wanke ES": {
+        "Cases": 0,
+        "Enrollment": 661
+    },
+    "Ward ES": {
+        "Cases": 2,
+        "Enrollment": 760
+    },
+    "Warren HS": {
+        "Cases": 2,
+        "Enrollment": 2813
+    },
+    "Wernli ES": {
+        "Cases": 2,
+        "Enrollment": 665
+    },
+    "Westwood Terrace ES": {
+        "Cases": 1,
+        "Enrollment": 426
+    },
+    "Zachry MS": {
+        "Cases": 0,
+        "Enrollment": 962
+    }
+}
